@@ -53,6 +53,7 @@ p{
   height: 50px;
   margin: 10px;
   color:#CDCDCD;
+   z-index :3;
 }
 .p{
   position :absolute ;
@@ -63,27 +64,33 @@ p{
 .d{
   position :absolute;
   top:330px;
-  left: 150px
+  left: 150px;
+z-index :3; 
+
 }
 .C{
   position :absolute;
   top:330px;
-  left: 40px
+  left: 40px;
+z-index :3;
 }
 .E{
 position :absolute;
   top:330px;
-  left: 260px
+  left: 260px;
+z-index :3;
 }
 .S {
   position: absolute;
   top: 330px;
-  left: 1460px
+  left: 1460px;
+z-index :3;
 }
 .F {
   position: absolute;
   top: 220px;
-  left: 1460px
+  left: 1460px;
+z-index :3;
 } 
 :root {
   touch-action: pan-x pan-y;
