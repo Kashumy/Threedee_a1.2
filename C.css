@@ -1,0 +1,168 @@
+
+        canvas { 
+          
+          width: 1924px; height: 1012px;  top:0px;  
+          position :absolute ;
+          
+        }
+        body{
+          
+        background : black ;
+        color:#00FF01;
+} 
+.cross{
+  position :absolute ;
+  width :20px;
+  height :20px;
+ z-index :4;
+ top:230px;
+ left:800px;
+  background-color :#95959569;
+  opacity :60%;
+  
+  
+}
+.ssd{
+  position :absolute ;
+  width: 1540px;
+  height: -512px;
+  z-index :2;
+  background :#4C4272D1 ;
+  opacity :2%;
+}
+
+
+p{
+  position :absolute ;
+  color :#C2C2C2;
+  font-size :20px;
+  z-index: 3;
+}
+.przycisk{
+  outline: none;
+  background :#A6A6A6A3;
+  width: 100px;
+  height:100px;
+  margin :10px;
+  z-index: 3;
+}
+.przycisk2 {
+  outline: none;
+  background: #565656C9;
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+  color:#CDCDCD;
+}
+.p{
+  position :absolute ;
+  top:220px;
+  left: 150px;
+  color:#323232;
+}
+.d{
+  position :absolute;
+  top:330px;
+  left: 150px
+}
+.C{
+  position :absolute;
+  top:330px;
+  left: 40px
+}
+.E{
+position :absolute;
+  top:330px;
+  left: 260px
+}
+.S {
+  position: absolute;
+  top: 330px;
+  left: 1460px
+}
+.F {
+  position: absolute;
+  top: 220px;
+  left: 1460px
+} 
+:root {
+  touch-action: pan-x pan-y;
+  height: 100%
+}
+body {
+  touch-action: manipulation;
+}
+.a {
+  
+  -webkit-filter: url(#a);
+  transition-duration: 4s ;
+  position :absolute ;
+  left:20px;
+} 
+.menu{
+  position :absolute ;
+  background-color :#444444C9;
+  width :1000px;
+  height :400px;
+  left :400px;
+  top:200px;
+  z-index :2;
+}
+.b{
+  color :red;
+  font-size :20px;
+  position :absolute ;
+  
+  
+}
+.O{
+  position :absolute ;
+  left:1000px;
+  top:0px;
+  
+}
+.O2 {
+  position: absolute;
+  left: 1000px;
+  top: 0px;
+ 
+}
+.optlight{
+  position :absolute ;
+  top:300px ;
+  width :400px;
+  left: 500px;
+ z-index :3 ;
+}
+.kkryst {
+  position: absolute;
+  top: 350px;
+  left: 500px;
+}
+.day{
+  position :absolute ;
+  top: 400px;
+  left: 490px;
+ z-index :3;
+}
+.kom {
+  position: absolute;
+  top: 450px;
+  left: 490px;
+  z-index: 3;
+}
+
+html,body{
+  margin: 0; height: 100%; overflow:;
+  
+}
+/*
+#EFFF00
+rgba(21, 29, 34, 1)
+#0F1E27
+#00010BBF
+  blue #0015FFBF
+grass #007707BF
+wood #4F3100
+#234700
+*/
