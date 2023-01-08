@@ -1,4 +1,4 @@
------------------------- [Copyright © ]- 2022 ------------------------ 
+-----------[Copyright © ]- 2022 ------------------------ 
 2023
 2024
 2025
@@ -6,6 +6,7 @@
 developer
 krystian popiołek 
 music 
+!!! 
 krystian popiołek 
 arts
 krystian popiołek 
