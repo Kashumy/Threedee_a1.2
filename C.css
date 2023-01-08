@@ -3,7 +3,7 @@
           
           width: 1924px; height: 1012px;  top:0px;  
           position :absolute ;
-          
+          z-index:0;
         }
         body{
           
@@ -60,6 +60,7 @@ p{
   top:220px;
   left: 150px;
   color:#323232;
+z-index :3;
 }
 .d{
   position :absolute;
